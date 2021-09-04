@@ -1,2 +1,2 @@
-# beverage_deposit_site
-Site amostra
+# beverage-deposit-site
+Site simples criado para fixar melhor os conteúdos aprendidos de HTML, CSS e reponsividade.

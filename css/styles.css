@@ -43,6 +43,7 @@ nav ul {
     align-items: center;
     padding: 0;
     width: 100%;
+    list-style: none;
 }
 
 nav ul li {
@@ -155,6 +156,10 @@ header p {
 
 #contato h2 {
     color: black;
+}
+
+#contato img {
+    width: 35px;
 }
 
 
